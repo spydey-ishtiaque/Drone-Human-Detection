@@ -17,7 +17,7 @@ The pipeline runs entirely in a Kaggle notebook environment using a free GPU (GP
 
 ## Demo Video
 
-> 📹 **[Insert Google Drive demo video link here after recording]**
+>(https://drive.google.com/drive/folders/1SXTiVAibBvJsRvcNcytdS3zlhQBASyqS?usp=drive_link)
 
 ---
 
