@@ -292,4 +292,4 @@ Open `notebooks/visdrone-yolo-detection.ipynb` in Kaggle and attach the [VisDron
 Dataset: [VisDrone2019](https://github.com/VisDrone/VisDrone-Dataset) by the AISKYEYE Team, Tianjin University.
 Model framework: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics).
 Sliced inference: [SAHI](https://github.com/obss/sahi) by OBSS.
-AI tools used for code generation and debugging: [Claude](https://claude.ai) (Anthropic) and Codex.
+AI tools used for debugging: [Claude](https://claude.ai) (Anthropic) and Codex.
