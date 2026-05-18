@@ -9,7 +9,7 @@ This project delivers a complete computer vision pipeline for analysing drone ae
 
 The entire pipeline was built and executed on Kaggle using a free NVIDIA T4 GPU. No local hardware is required to reproduce results.
 
-**AI tools used during development:** Claude (Anthropic) and Codex were used for code generation, debugging, and architectural guidance, as explicitly permitted by the assessment guidelines. All implementation decisions and results are understood and can be explained in full.
+**AI tools used during development:** Claude (Anthropic) and Codex were used for debugging and architectural guidance.
 
 ---
 
