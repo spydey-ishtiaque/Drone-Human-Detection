@@ -1,5 +1,5 @@
 # Drone Human & Car Detection System
-### Antlings Internship Programme — AI/ML Technical Assessment
+*End-to-end Computer Vision Pipeline for a "human and car detection system" in drone imagery, including counting, visualization, evaluation, and optional tracking.*
 
 ---
 
